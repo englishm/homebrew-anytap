@@ -24,7 +24,7 @@ command. I thank all the people who worked on that.
 + The easiest thing is (ironically?) to use `brew tap`:
 
         brew tap telemachus/anytap
-        brew install brew-anytap
+        brew install brew-any-tap
 
   That will install `brew any-tap` and `brew any-untap`. See below for
   brief usage notes on both.
